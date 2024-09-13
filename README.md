@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anas</h1>
 <h3 align="center">A passionate Developer with Open-source enthusiast with a knack for clean code and creative solutions. Always exploring new technologies and sharing knowledge.</h3>
-<img align="right" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="coding" width="400">
+<img align="right" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="coding" width="400">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anas007-cmd&label=Profile%20views&color=0e75b6&style=flat" alt="anas007-cmd" /> </p>
 
 - 🔭 I’m currently working on **mastering HTML and CSS as part of a 1.5-year Full Stack Developer program.**
